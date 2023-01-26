@@ -13,7 +13,7 @@
 ## In-Class Assignments 
 
 * [ICA1](https://naomiwag99.github.io/)
-* [ICA2] (/ica/ICA2.pdf)
+* [ICA2](/ica/ICA2%20--%20Exploring%20Directory%20Structures%20(Week%202).pdf)
 * ICA3
 * ICA4
 * ICA5
