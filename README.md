@@ -13,7 +13,7 @@
 ## In-Class Assignments 
 
 * [ICA1](https://naomiwag99.github.io/)
-* ICA2
+* [ICA2] (/ica/ICA2.pdf)
 * ICA3
 * ICA4
 * ICA5
