@@ -31,7 +31,7 @@
 ## Weekly Assignments 
 
 * [WA1](https://naomiwag99.github.io/wa/wa1.html)
-* [WA2](https://naomiwag99.github.io/wa/wa2.html)
+* WA2
 * WA3
 * WA4
 * WA5
