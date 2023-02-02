@@ -15,7 +15,7 @@
 * [ICA1](https://naomiwag99.github.io/)
 * [ICA2](/ICA2-complete.pdf)
 * [ICA3A](/ica/ica3a.html)
-* [ICA3B](/ica/ica3-part2.html)
+* [ICA3B](/ica/ica3b.html)
 * ICA4
 * ICA5
 * ICA6
