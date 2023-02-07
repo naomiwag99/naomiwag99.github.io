@@ -16,7 +16,7 @@
 * [ICA2](/ICA2-complete.pdf)
 * [ICA3A](/ica/ica3a.html)
 * [ICA3B](/ica/ica3b.html)
-* ICA4
+* [ICA4](/ica/ica4.html)
 * ICA5
 * ICA6
 * ICA7
