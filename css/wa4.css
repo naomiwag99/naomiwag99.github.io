@@ -97,11 +97,13 @@ body {
   .foot2{
     height:3em;
     padding: 1em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
   }
   
   .head2{
     height: 3em;
     padding: 1em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
   }
 
 
@@ -115,6 +117,7 @@ body {
     background-color: #5aadd2;
     border: 0.2em solid black;
     border-radius: 1.5em;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
   }
   
   .card2 header{
