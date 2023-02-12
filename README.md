@@ -7,6 +7,7 @@
 ## Projects 
 
 * HTML
+* [HTML-Midterm](https://naomiwag99.github.io/html-midterm/page5.html)
 * CSS 
 * JS
 
