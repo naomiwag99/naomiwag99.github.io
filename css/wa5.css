@@ -11,7 +11,18 @@
     text-align: center;
 }
 
-
+h2 {
+    position: absolute;
+    top: 10px;
+    left: 600px;
+    background-size: 10px;
+    color: #FFCBDD;
+    background-size: 10px;
+    padding: 7px;
+    background-color: #1B263B;
+    text-shadow: 1px 1px 1px black;
+    border: 10px ridge #778DA9;
+}
 
 
 h3 {
@@ -23,28 +34,28 @@ h3 {
     font-size: 40px;
     text-align: center left;
     padding: 15px;
-    color: red;
+    color: #FFCBDD;
     background-size: 10px;
-    background-color: blue;
+    background-color: #7C0B2B;
     text-shadow: 1px 1px 1px black;
-    border: 10px ridge #4f92b4;
+    border: 10px ridge #FFCBDD;
 
   }
 
   h4 {
     position: absolute;
     bottom: 5px;
-    left: 10px;
+    left: 20px;
     width: 450px;
     height: 150px;
     font-size: 40px;
     text-align: center left;
     padding: 15px;
-    color: red;
+    color: #F2E3BC;
     background-size: 10px;
-    background-color: blue;
+    background-color: #414535;
     text-shadow: 1px 1px 1px black;
-    border: 10px ridge #4f92b4;
+    border: 10px ridge #C19875;
     
   }
   
