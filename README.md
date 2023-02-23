@@ -19,7 +19,9 @@
 * [ICA3B](/ica/ica3b.html)
 * [ICA4](/ica/ica4.html)
 * [ICA5](/ica/ica5.html)
-* ICA6
+* [ICA6PT1](/ica/ica6/ica6-part1.html)
+* [ICA6PT2](ica/ica6/ica6-part2.html)
+* [ICA6PT3](ica/ica6/ica6-part3.html)
 * ICA7
 * ICA8
 * ICA9
