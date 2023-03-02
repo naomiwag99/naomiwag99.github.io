@@ -1,0 +1,51 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: green;
+}
+nav{
+    height: 50vh;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height:20px;
+    background-color: red;
+}
+nav a{
+    width:10vw;
+    text-align: center;
+    text-decoration: none;
+    color:orange;
+    font-family: fantasy;
+}
+h1{
+    font-family: fantasy;
+}
+h1:hover{
+    rotate: 190deg;
+}
+h3{
+    font-family: cursive;
+}
+
+img{
+    width:30vw;
+    height: 30vh;
+    transition: width 2s, height 2s, background-color 2s, transform 2s;
+}
+img:hover{
+    width: 400px;
+    height: 400px;
+    rotate: 180deg;
+}
+
+#red-ball{
+    background-color: pink;
+    width: 20px;
+    height:20px;
+    border-radius: 50%;
+    position: absolute;
+    left:5vw;
+    top:0;
+}
