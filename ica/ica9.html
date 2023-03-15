@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ica9</title>
+    <style>
+        #button{
+            border: 5px solid darkolivegreen;
+            border-radius: 20px;
+            background-color: green;
+            padding: 25px 50px;
+            width: 250px;
+            font-size: 50px;
+        }
+
+        #secondButton {
+            border: 5px solid darkorange;
+            border-radius: 30px;
+            background-color: purple;
+            padding: 15px;
+            width: 300px;
+            font-size: 30px;
+        }
+        
+    </style>
+</head>
+<body>
+    <div id ="button">
+        <p>Click me!</p>
+
+    </div>
+
+    <div class = "form">
+        <label for "guessField">I'll double whatever you put here:</label>
+        <input type="number" min="1" max = "100" required id ="guessField" class = "guessField">
+        <input type="submit" value="Submit guess" class = "guessSubmit">
+
+
+    </div>
+
+    <div id="secondButton">
+        <p> No wait, please click here!</p>
+    </div>
+
+
+    
+
+    <script>
+
+        console.log("Hello, World!");
+
+        let btn = document.querySelector("#button");
+        // console.log(btn);
+        function changeBtn() {
+            console.log("This Worked!")
+            btn.textContent = "TEST";
+            btn.style.backgroundColor = "darkmagenta";
+            btn.style.border = "2px solid magenta";
+            btn.style.color = "white";
+
+        }
+        btn.addEventListener('click',changeBtn)
+        //for readability sake, put the function def before the place where you called it but it would still work otherwise
+        
+
+        function checkGuess(){
+            //alert(userGuess.value);
+            let value = userGuess.value*2;
+            alert(value);
+
+        }
+
+
+        //const hoverUL = document.querySelector(.hoverUL);
+
+        
+
+
+        let guessBtn = document.querySelector(".guessSubmit");
+        guessBtn.addEventListener('click',checkGuess);
+
+        let userGuess = document.querySelector(".guessField");
+
+
+
+
+        let roc = document.querySelector("#secondButton");
+        // console.log(btn);
+        function changeSecondBtn() {
+            console.log("This Worked!")
+            roc.textContent = "OW THAT HURT I AM ANGRY";
+            roc.style.backgroundColor = "red";
+            roc.style.border = "2px solid blue";
+            roc.style.color = "white";
+
+        }
+        roc.addEventListener('click',changeSecondBtn)
+       
+    </script>
+</body>
+</html>
