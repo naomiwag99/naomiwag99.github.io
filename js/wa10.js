@@ -10,11 +10,11 @@ const overlay = document.querySelector('.overlay');
 
 const images = ['pic1.jpg', `pic2.jpg`, `pic3.jpg`, `pic4.jpg`, `pic5.jpg`];
 const alts = {
-  'pic1.jpg' : 'Closeup of a human eye',
-  'pic2.jpg' : 'Rock that looks like a wave',
-  'pic3.jpg' : 'Purple and white pansies',
-  'pic4.jpg' : 'Section of wall from a pharoah\'s tomb',
-  'pic5.jpg' : 'Large moth on a leaf'
+  'pic1.jpg' : 'My mom and my doggies',
+  'pic2.jpg' : 'My friends doing cool amazing things',
+  'pic3.jpg' : 'Mt. fuji and takumi?',
+  'pic4.jpg' : 'RWB porsche lair',
+  'pic5.jpg' : 'be me, be mw, bmw'
 }
 
 /* Looping through images */
@@ -27,7 +27,7 @@ for (const image of images) {
   newImage.addEventListener('click', e => {
     displayedImage.src = e.target.src;
     displayedImage.alt = e.target.alt;
-  })
+  });
 }
 
 /* Wiring up the Darken/Lighten button */
@@ -43,4 +43,4 @@ btn.addEventListener('click', () => {
     btn.textContent = 'Darken';
     overlay.style.backgroundColor = 'rgba(0,0,0,0)';
   }
-})
+});
