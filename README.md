@@ -44,7 +44,7 @@
 * WA8
 * [WA9](https://naomiwag99.github.io/SillyStory/wa9.html)
 * [WA10](https://naomiwag99.github.io/wa/wa10.html)
-* WA11
+* [WA11](https://naomiwag99.github.io/wa/wa11.html)
 * WA12
 * WA13
 * WA14
