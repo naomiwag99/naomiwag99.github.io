@@ -28,7 +28,7 @@
 * [ICA10](/ica/ica10.html)
 * [ICA11](/ica/ica11.html)
 * ICA12
-* [ICA13](/wa/wa13.html)
+* ICA13
 * ICA14
 * ICA15
 
@@ -46,7 +46,7 @@
 * [WA10](https://naomiwag99.github.io/wa/wa10.html)
 * [WA11](https://naomiwag99.github.io/wa/wa11.html)
 * [WA12](https://naomiwag99.github.io/wa/wa12.html)
-* WA13
+* [WA13](https://naomiwag99.github.io/wa/wa13.html)
 * WA14
 * WA15
 
