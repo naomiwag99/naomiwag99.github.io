@@ -46,7 +46,6 @@
 * [WA10](https://naomiwag99.github.io/wa/wa10.html)
 * [WA11](https://naomiwag99.github.io/wa/wa11.html)
 * [WA12](https://naomiwag99.github.io/wa/wa12.html)
-* [WA13](https://naomiwag99.github.io/wa/wa13.html)
 * WA14
 * WA15
 
