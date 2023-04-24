@@ -7,30 +7,27 @@
     <title>wa13</title>
     <link rel="stylesheet" href="/css/wa13.css">
     <script defer src="/js/wa13.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,500;1,700&display=swap');
+        </style>
 </head>
 <body>
-    <h1> This is my website, as it is after my ICA, but not customized yet</h1>
-    <div>
-        <p>Please select the volume you'd like.</p>
-        <p class = "output">50</p>
+    <h1 id="bigText">Click to get a SUPER special volume level!</h1>
+    <button id="startB" class = "content">Click here to start the volume selector</button>
+    <!-- This output ID lets me update the volume level dynamically as we go-->
+    <p id="output" class = "content"></p>
+    <button id="lessB">Quieter</button>
+    <button id="moreB">Louder</button>
+    <div id = "subscribe">
+        <a href="https://www.youtube.com/watch?v=cVV2Nexzzu8" target="_blank">
+            <button>Subscribe?</button>
+          </a>
+
     </div>
-    <div> <!--- plus/minus volume changer-->
-        <form>
-            <input class="minus-button" type = "button" name = "minus-button" value = "MINUS"> <!-- value is what it will say in all caps-->
-            <input class="plus-button" type = "button" name = "plus-button" value = "PLUS"> <!-- value is what it will say in all caps-->
-            <input class="reset-button" type = "button" name = "reset-button" value = "RESET"> <!-- value is what it will say in all caps-->
-            <input class="random-button" type = "button" name = "random-button" value = "RANDOM"> <!-- value is what it will say in all caps-->
-            <input class="submit-button" type = "button" name = "submit-button" value = "SUBMIT"> <!-- value is what it will say in all caps-->
-        </form>
-    </div>
-    <div> <!-- This will be a slider-->
-        <div class = "slidecontainer">
-            <p>Please select the volume level that you'd like</p>
-            <input type = "range" min = "0" max = "100" class = "slider" id = "myRange">
-            <input class="slider-submit-button" type = "button" name = "slider-submit-button" value = "SUBMIT"> <!-- value is what it will say in all caps-->
-            <p class = "slider-output"></p>
-        </div>
-    </div>
+    
+      
+    
+    
 
 </body>
 </html>
