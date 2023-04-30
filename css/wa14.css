@@ -1,0 +1,30 @@
+#mapStuff{
+    padding-top: 10%;
+
+}
+
+#box{
+    width:600px;
+    height:80px;
+    background:#E76F51;
+    position:absolute;
+    top:10%;
+    left:50%;
+    margin-top:-40px;
+    margin-left:-300px;
+    border-radius: 30px; 
+}
+
+
+#welcomeTitle{
+    vertical-align: middle;
+    line-height: 45px;
+    text-align: center;
+    color:#E9C46A;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+body{
+    background-color: #264653;
+}
