@@ -1,0 +1,23 @@
+.container {
+    height: 90vh;
+    position: relative;
+  }
+.text{
+    font-family: 'Darumadrop One', cursive;
+    font-size: 100px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin: -400px 0 0 -200px;
+}
+ 
+  .dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: red;
+    position: absolute;
+    top: 900px;
+    left: 900px;
+  }
+  
