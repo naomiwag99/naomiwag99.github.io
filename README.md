@@ -9,7 +9,7 @@
 * HTML
 * [HTML-Midterm](https://naomiwag99.github.io/html-midterm/page5.html)
 * CSS 
-* [JS](https://naomiwag99.github.io/hoverArt/naisu.html)
+* [JS](http://naomiis.me/hoverArt/naisu.html)
 
 ## In-Class Assignments 
 
